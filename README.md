@@ -47,7 +47,7 @@ to localForage, you can visit
 channel to ask questions about localForage.
 
 The best person to ask about localForage is [**tofumatt**][tofumatt], who
-is usually online from 10am-8pm GMT.
+is usually online from 10am-8pm London time (GMT/BST).
 
 [tofumatt]: http://tofumatt.com/
 
